@@ -2,7 +2,7 @@
 
 ## Array
 - [x] Two Sum 
-- [ ] Best Time to Buy and Sell
+- [x] Best Time to Buy and Sell
 - [ ] Contains Duplicate
 - [ ] Product of Array Except Self
 - [ ] Maximum Subarray
