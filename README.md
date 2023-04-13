@@ -5,7 +5,7 @@
 - [x] Best Time to Buy and Sell
 - [x] Contains Duplicate
 - [x] Product of Array Except Self
-- [ ] Maximum Subarray
+- [x] Maximum Subarray
 - [ ] Maximum Product Subarray
 - [ ] Search in Rotated Sorted Array 
 - [ ] Container With Most Water
