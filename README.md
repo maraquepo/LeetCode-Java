@@ -6,8 +6,8 @@
 - [x] Contains Duplicate
 - [x] Product of Array Except Self
 - [x] Maximum Subarray
-- [ ] Maximum Product Subarray
-- [ ] Search in Rotated Sorted Array 
+- [x] Maximum Product Subarray
+- [x] Search in Rotated Sorted Array 
 - [ ] Container With Most Water
 - [ ] 3Sum
 
